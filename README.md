@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm Immanuel Abeiku Baiden
 
-<!--
-**Dzinpa1/Dzinpa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Developer** and **Data Analyst** with a background in **Electrical & Electronic Engineering**. I love bridging the gap between raw data and user-friendly interfaces—turning complex insights into clear visuals and responsive web experiences.
 
-Here are some ideas to get you started:
+#### 💻 What I Do
+* **Web Development:** Building responsive, modern websites and dynamic web applications using **HTML5, CSS3, Tailwind CSS, and JavaScript**.
+* **Data Analytics:** Transforming operational data into actionable insights and interactive dashboards using **Python, SQL, Excel, and data visualization tools**.
+* **Engineering Mindset:** Applying structured problem-solving to real-world challenges, including hands-on experience optimizing Autonomous UAV maintenance and operational reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Currently
+* Building web solutions for individuals, startups, and growing businesses.
+* Exploring new ways to bring data storytelling onto the web.
+* Open to collaborations and opportunities in **Front-End Development** and **Data Analytics**.
